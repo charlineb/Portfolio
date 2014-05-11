@@ -263,7 +263,7 @@ i:hover {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -291,6 +291,9 @@ i:hover {
 	color: #ffffff;
 }
 
+/* ==========================================================================
+   Button on all pages
+   ========================================================================== */
 
 .button{
 	margin-top: 50px;
@@ -318,7 +321,7 @@ i:hover {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -351,7 +354,7 @@ i:hover {
    Music app
    ========================================================================== */
 
-#google-car {	
+#freebie-music-app {	
 	background: url(../img/google-car/google-car-presentation.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
@@ -372,7 +375,7 @@ i:hover {
     background-size: cover;
 }
 
-#google-car h1 {
+#freebie-music-app h1 {
 	color:#ffffff;
 	padding-top: 10px;
 	padding-bottom: 20px;
@@ -381,7 +384,7 @@ i:hover {
 	font-weight: bold;
 }
 
-#google-car h4 {
+#freebie-music-app h4 {
 	font-weight: 400;
 	color: #ffffff
 }
