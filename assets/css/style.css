@@ -86,16 +86,23 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default {
 	background-color: #FFF;
 	border-color: transparent;
+	-moz-box-shadow: 0px 2px 4px 0px rgba(30, 30, 30, 0.2);
+	-webkit-box-shadow: 0px 2px 4px 0px rgba(30, 30, 30, 0.2);
+	box-shadow: 0px 2px 4px 0px rgba(30, 30, 30, 0.2);
 }
 
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
 	color: #ea4c89;
 	background-color: transparent;
-	border-bottom: 2px solid #ea4c89
+	border-bottom: 2px solid #ea4c89;
+	padding: 15px 0px 5px 10px;
+	margin-right: 20px;
 }
 
 .navbar-default .navbar-nav > li > a {
 	color: #1D3238;
+	padding: 15px 0px 5px 10px;
+	margin-right: 20px;
 }
 
 /* ==========================================================================
@@ -124,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h1 {
-	color:#ffffff;
+	color:#fff;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	font-size: 28px;
@@ -136,31 +143,64 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ffffff
 }
 
-#social {
-	padding-top: 50px;
-	padding-bottom: 50px;
-	background-color: #f2f2f2;
-}
 
-#social i {
-	font-size: 40px;
-	color: #4a4a4a
-}
 
-#social i:hover {
-	color: #1abc9c
-}
+/* ==========================================================================
+   Footer
+   ========================================================================== */
 
 #footerwrap {
 	padding-top: 70px;
 	padding-bottom: 50px;
 	background-color: #f7f7f7;
+	color: #848789;
+	margin-left: 10px;
+	font-size: 12px;
 }
 
 #footerwrap p {
 	color: #848789;
 	margin-left: 10px;
+	font-size: 12px;
 }
+
+#footerwrap a {
+	color: #ea4c89;
+	margin-left: 10px;
+	font-size: 12px;
+}
+
+#footerwrap a:hover {
+	color: #ea4c89;
+	margin-left: 10px;
+	font-size: 12px;
+	text-decoration: underline;
+}
+
+#footerwrap .col-lg-4{
+	padding-bottom: 15px;
+
+}
+
+/*#social {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-color: #f2f2f2;
+}*/
+
+i {
+	font-size: 21px;
+	color: #4a4a4a;
+	margin-right: 15px;
+}
+
+i:hover {
+	color: #ea4c89
+}
+
+/* ==========================================================================
+   Works
+   ========================================================================== */
 
 #workwrap {	
 	background: url(../img/work.jpg) no-repeat center top;
