@@ -288,7 +288,7 @@ i:hover {
 
 #google-car h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #ffffff;
 }
 
 
@@ -319,7 +319,7 @@ i:hover {
 }
 
 #viber h1 {
-	color:#ffffff;
+	color:#1D3238;
 	padding-top: 10px;
 	padding-bottom: 20px;
 	letter-spacing: 4px;
@@ -329,7 +329,7 @@ i:hover {
 
 #viber h4 {
 	font-weight: 400;
-	color: #ffffff
+	color: #1D3238;
 }
 
 
@@ -377,13 +377,13 @@ i:hover {
    ========================================================================== */
 
 #aboutwrap {	
-	background: url(../img/about.jpg) no-repeat center top;
+	background: url(../img/back.jpg) no-repeat center top;
 	margin-top: -70px;
 	padding-top: 250px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 550px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
