@@ -193,7 +193,8 @@ h1, h2, h3, h4, h5, h6 {
 i {
 	font-size: 21px;
 	color: #4a4a4a;
-	margin-right: 15px;
+	margin-right: 10px;
+	margin-left: 10px; 
 }
 
 i:hover {
@@ -203,7 +204,6 @@ i:hover {
  
 #footerwrap .theme a{
 	color: #848789;
-	margin-left: 10px;
 	font-size: 12px;
 }
 
@@ -292,6 +292,20 @@ i:hover {
 }
 
 
+.button{
+	margin-top: 50px;
+} 
+
+
+.button a{
+	-webkit-border-radius: 70px;
+	-moz-border-radius: 70px;
+	border-radius: 70px;
+	font-size: 14px;
+	padding: 10px 15px;
+	border: 1px solid;
+} 
+
 
 /* ==========================================================================
    Viber
@@ -344,7 +358,7 @@ i:hover {
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 650px;
+	min-height: 500px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
