@@ -95,14 +95,16 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ea4c89;
 	background-color: transparent;
 	border-bottom: 2px solid #ea4c89;
-	padding: 15px 0px 5px 10px;
+	padding: 15px 0px 5px 0px;
 	margin-right: 20px;
+	margin-left: 10px;
 }
 
 .navbar-default .navbar-nav > li > a {
 	color: #1D3238;
-	padding: 15px 0px 5px 10px;
+	padding: 15px 0px 5px 0px;
 	margin-right: 20px;
+	margin-left: 10px;
 }
 
 /* ==========================================================================
@@ -160,19 +162,16 @@ h1, h2, h3, h4, h5, h6 {
 
 #footerwrap p {
 	color: #848789;
-	margin-left: 10px;
 	font-size: 12px;
 }
 
 #footerwrap a {
 	color: #ea4c89;
-	margin-left: 10px;
 	font-size: 12px;
 }
 
 #footerwrap a:hover {
 	color: #ea4c89;
-	margin-left: 10px;
 	font-size: 12px;
 	text-decoration: underline;
 }
@@ -271,6 +270,18 @@ i:hover {
     background-size: cover;
 }
 
+.col-lg-offset-2 p{
+	text-align: justify;
+}
+
+.col-lg-offset-2 a{
+	color: #ea4c89;
+}
+
+.col-lg-offset-2 a:hover{
+	color: #ea4c89;
+	text-decoration: underline;
+}
 
 
 
