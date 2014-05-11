@@ -198,6 +198,19 @@ i:hover {
 	color: #ea4c89
 }
 
+ 
+#footerwrap .theme a{
+	color: #848789;
+	margin-left: 10px;
+	font-size: 12px;
+}
+
+#footerwrap .theme a:hover{
+	color: #ea4c89;
+	margin-left: 10px;
+	font-size: 12px;
+}
+
 /* ==========================================================================
    Works
    ========================================================================== */
