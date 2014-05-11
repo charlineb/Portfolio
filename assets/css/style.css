@@ -252,6 +252,130 @@ i:hover {
 	color: #ffffff
 }
 
+/* ==========================================================================
+   Google car
+   ========================================================================== */
+
+#google-car {	
+	background: url(../img/google-car/google-car-presentation.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#google-car h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#google-car h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+
+
+
+/* ==========================================================================
+   Viber
+   ========================================================================== */
+
+#viber {	
+	background: url(../img/viber/viber-presentation.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#viber h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#viber h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+
+
+/* ==========================================================================
+   Music app
+   ========================================================================== */
+
+#google-car {	
+	background: url(../img/google-car/google-car-presentation.jpg) no-repeat center top;
+	margin-top: -70px;
+	padding-top: 250px;
+	text-align:center;
+	background-attachment: relative;
+	background-position: center center;
+	min-height: 650px;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#google-car h1 {
+	color:#ffffff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	letter-spacing: 4px;
+	font-size: 80px;
+	font-weight: bold;
+}
+
+#google-car h4 {
+	font-weight: 400;
+	color: #ffffff
+}
+
+/* ==========================================================================
+   About
+   ========================================================================== */
+
 #aboutwrap {	
 	background: url(../img/about.jpg) no-repeat center top;
 	margin-top: -70px;
