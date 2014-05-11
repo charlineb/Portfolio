@@ -50,7 +50,7 @@
 }
 
 .mb {
-	margin-bottom: 80px;
+	margin-bottom: 40px;
 }
 
 /* ==========================================================================
@@ -112,13 +112,13 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/back2.jpg) no-repeat center top;
 	margin-top: -70px;
-	padding-top: 250px;
+	padding-top: 270px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 450px;
+	min-height: 550px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -145,6 +145,9 @@ h1, h2, h3, h4, h5, h6 {
 	color: #ffffff
 }
 
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	font-size: 14px;
+}
 
 
 /* ==========================================================================
