@@ -46,11 +46,16 @@
 }
 
 .mt {
-	margin-top: 80px;
+	margin-top: 60px;
 }
 
 .mb {
-	margin-bottom: 40px;
+    margin-bottom: 40px;
+}
+
+.description{
+	margin-bottom: 0px;
+	margin-top: 50px;
 }
 
 /* ==========================================================================
@@ -71,7 +76,7 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
     color: #4a4a4a;
     font-size: 24px;
-    text-transform: uppercase;;
+    text-transform: uppercase;
 }
 
 
@@ -112,13 +117,14 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back2.jpg) no-repeat center top;
+	background: url(../img/back4.jpg) no-repeat center top;
+	background-color: #f7f7f7;
 	margin-top: -70px;
-	padding-top: 270px;
+	padding-top: 230px;
 	text-align:center;
 	background-attachment: relative;
 	background-position: center center;
-	min-height: 550px;
+	min-height: 450px;
 	width: 100%;
 	
     -webkit-background-size: 100%;
@@ -133,10 +139,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #headerwrap h1 {
-	color:#fff;
 	padding-top: 10px;
-	font-size: 28px;
+	font-size: 32px;
 	text-transform: inherit;
+}
+
+#headerwrap h1 span{
+	color: #ea4c89;
 }
 
 #headerwrap h2 {
@@ -149,6 +158,14 @@ h1, h2, h3, h4, h5, h6 {
 	font-weight: 400;
 	font-style: italic;
 	margin-top: 0px;
+}
+
+.separator{
+	border: 2px solid;
+	width: 40px;
+	margin: 0 auto;
+	color: #ea4c89;
+	margin-bottom: 30px;
 }
 
 #headerwrap h4 {
@@ -182,7 +199,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #footerwrap a {
-	color: #ea4c89;
+	color: #EA4CA2;
 	font-size: 12px;
 }
 
@@ -450,7 +467,7 @@ i:hover {
 }
 
 .col-lg-offset-2 p{
-	text-align: justify;
+	text-align: center;
 }
 
 .col-lg-offset-2 a{
