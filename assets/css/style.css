@@ -135,9 +135,20 @@ h1, h2, h3, h4, h5, h6 {
 #headerwrap h1 {
 	color:#fff;
 	padding-top: 10px;
-	padding-bottom: 20px;
 	font-size: 28px;
 	text-transform: inherit;
+}
+
+#headerwrap h2 {
+	color:#fff;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	font-size: 18px;
+	text-transform: inherit;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	margin-top: 0px;
 }
 
 #headerwrap h4 {
@@ -148,6 +159,8 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
 	font-size: 14px;
 }
+
+
 
 
 /* ==========================================================================
